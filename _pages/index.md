@@ -7,7 +7,6 @@ permalink: /
 
 # 꼬리에 꼬리를 무는 금융 이야기
 
-
 <strong>Recently updated notes</strong>
 
 <ul>
