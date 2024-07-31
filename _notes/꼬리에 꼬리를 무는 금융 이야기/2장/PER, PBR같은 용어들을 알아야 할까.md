@@ -9,8 +9,8 @@
 PER, PBR, ROE는 기업의 재무 상태와 성장 가능성을 보여주는 중요한 지표입니다. 마치 자동차 내비게이션이 목적지까지 안전하게 안내하듯, 이 지표들은 투자자가 합리적인 투자 결정을 내리는 데 도움을 줍니다.
 
 일단 기본적으로 **PER, PBR****을 확인 할 수 있는 곳을 알려드리겠습니다.**
-
- ![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) ![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)이러한 지표를 확인 할 수 있는법은 매우 간단합니다. 일단 네이버증권에 들어간다음 궁금한 종목을 검색한 뒤 종목분석을 누르면 바로 PBR과 PER의 지표를 확인 가능 합니다.
+![[Pasted image 20240801001200.png]]
+![[Pasted image 20240801001226.png]]이러한 지표를 확인 할 수 있는법은 매우 간단합니다. 일단 네이버증권에 들어간다음 궁금한 종목을 검색한 뒤 종목분석을 누르면 바로 PBR과 PER의 지표를 확인 가능 합니다.
 
 · **PER (****주가수익비율):** 주가가 1주당 순이익의 몇 배인지를 나타냅니다. PER은 보통 수치를 10을 기준으로 잡고 10보다 낮을수록 저평가된 주식, 높을수록 고평가 된 주식으로 해석할 수 있습니다.  
 예를 들어 A기업과 B기업의 순이익이 같더라도, A기업의 PER이 10이고 B기업의 PER이 20이라면, A기업의 주식이 상대적으로 저렴하다고 볼 수 있습니다.  
@@ -23,18 +23,14 @@ PER, PBR, ROE는 기업의 재무 상태와 성장 가능성을 보여주는 중
 **PER****이 낮아서 또는 PBR이 낮기 때문에 저평가 됐다고 판단하여 무작정 매수 했다가 낭패를 당 할 수 있습니다. 일단 우리는PER ,PBR이 왜 낮을까?를 생각 해 볼 필요가 있습니다.  
   
 분명 PER의 수치가10보다 낮아 저평가 되었다면, 사람들이 싸다고 생각해서 마구 매수를 할 것이고, 또 반대로 10보다 높아 고평가 되었다고 생각하면 사람들이 매도를 해서 결국에는 PER의 수치가 10에 가까워질텐데, 왜 시장은 이렇게 흘러가지가 않냐면 많은 이유가 있겠지만 가장 큰 이유는 “미래”때문입니다. 한가지 예시를 보여드리겠습니다.  
-****![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)** **![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png)** ![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)**![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)**
+**![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)**  **![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)**![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)**![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)**
 
 **이것은 이마트의 재무현황과 차트입니다. PER이 2이고 PBR이 0.1이다? 이거는 정말 주식판에서 엄청나게 저평가된 수치라고 볼 수 있습니다. 하지만 대체 왜 계속 주가가 몇 년 동안 떨어질까요? 앞서 말했다시피 “미래” 입니다. 안그래도 온라인쇼핑이 활성화 돼서 수익성이 약화 됐는데 코시국 때문에 우리 주변에 대형마트에 가는 사람들을 거의 볼 수 없습니다.**
 
-**반대로 PER PBR 지표적으로 고평가 되어있는 종목을 하나 더 보여 드리겠습니다.  
-****![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png)**
-
-**![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png)** 
-
-![](file:///C:/Users/jung2/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png)
-
-이것은 테슬라의 재무와 차트입니다. PER이 50~80 , PBR은 12~15인 모습을 볼 수 있습니다. 재무적으로 보면 엄청나게 고평가 됐다고 평가 할 수 있습니다. 하지만 이것도 마찬가지로 “미래”에 답이 있습니다. 테슬라는 앞으로 미래의 교통수단을 책임질 전기차 분야의 1등입니다, 고로 미래가 보장 되어 있기 때문에 매우 주가가 높은 것 입니다.  
+반대로 PER PBR 지표적으로 고평가 되어있는 종목을 하나 더 보여 드리겠습니다.  
+![[Pasted image 20240801001646.png]]
+![[Pasted image 20240801001652.png]]
+![[Pasted image 20240801001657.png]]이것은 테슬라의 재무와 차트입니다. PER이 50~80 , PBR은 12~15인 모습을 볼 수 있습니다. 재무적으로 보면 엄청나게 고평가 됐다고 평가 할 수 있습니다. 하지만 이것도 마찬가지로 “미래”에 답이 있습니다. 테슬라는 앞으로 미래의 교통수단을 책임질 전기차 분야의 1등입니다, 고로 미래가 보장 되어 있기 때문에 매우 주가가 높은 것 입니다.  
   
 이게 진짜로 고평가일지, 아니면 아직도 저평가인지는 아무도 모르는것이죠.  
   
