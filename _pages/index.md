@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # 꼬리에 꼬리를 무는 금융 이야기
-
+< img src=”/assets/img/image-name.png”/>
 <strong>Recently updated notes</strong>
 
 <ul>
